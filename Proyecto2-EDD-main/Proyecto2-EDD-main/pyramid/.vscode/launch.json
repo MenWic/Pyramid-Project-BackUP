@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PyramidApplication<pyramid>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.pyramid.PyramidApplication",
+            "projectName": "pyramid",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

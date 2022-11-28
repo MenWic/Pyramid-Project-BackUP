@@ -1,0 +1,15 @@
+digraph G
+{
+    node[shape = cicle]
+    node[style = filled]
+<13T>-><8T>-><2T>-><7T>
+
+
+<13T>-><10C>-><8D>-><1D>
+<8D>-><6C>-><7C>-><8C>
+
+
+
+<10C>-><5P>
+
+}
